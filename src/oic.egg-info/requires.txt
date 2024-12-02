@@ -1,0 +1,14 @@
+alabaster
+beaker
+future
+mako
+pyOpenSSL
+pycryptodomex
+pyjwkest>=1.3.2
+requests
+responses
+six
+testfixtures
+
+[develop]
+cherrypy==3.2.4
